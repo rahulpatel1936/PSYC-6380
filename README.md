@@ -14,4 +14,4 @@ exploration and confirmation in data analysis.
 
 In this GitHub repository, you will find code and analyses for various multivariate statistical techniques: correlation, linear regression, mediation, moderation, ANOVA, non-parametric analyses, chi-square, logistic regression, structural equation modeling, and multilevel modeling.
 
-I would like to thank Scott Cassidy for granting me permission to include these materials in this repository. 
+I would like to thank Dr. Scott Cassidy for granting me permission to include these materials in this repository. 
