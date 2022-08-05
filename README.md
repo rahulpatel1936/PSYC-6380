@@ -12,6 +12,8 @@ order to do this, emphasis throughout the course will be placed on openness and 
 in research, how to avoid questionable research practices, and the crucial distinction between 
 exploration and confirmation in data analysis.
 
+<b> Link to Course Syllabus: </b> https://www.uoguelph.ca/psychology/sites/default/files/6380%20W20%20Course%20Outline%20SCassidy.pdf
+
 In this GitHub repository, you will find code and analyses for various multivariate statistical techniques: correlation, linear regression, mediation, moderation, ANOVA, non-parametric analyses, chi-square, logistic regression, structural equation modeling, and multilevel modeling.
 
 I would like to thank Dr. Scott Cassidy for granting me permission to include these materials in this repository. 
